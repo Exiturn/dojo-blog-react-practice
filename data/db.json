@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Why Mario sucks",
+      "body": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum molestie quam eu porttitor. Mauris eget tempus nulla. Sed ut sem augue. Quisque bibendum nisi.",
+      "author": "Bowser",
+      "id": 4
+    },
+    {
+      "title": "Luigi is the best",
+      "body": "Need I say more?",
+      "author": "Luigi",
+      "id": 5
+    }
+  ]
+}
